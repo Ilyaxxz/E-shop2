@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-shop</string>
+    <string name="MainText">Главная</string>
+    <string name="AboutText">О нас</string>
+    <string name="contactsText">Контакты</string>
+    <string name="LogoShop">Creepochek</string>
+    <string name="Dota_Icon">Dota</string>
+    <string name="category_name">category</string>
+    <string name="item_name">ItemName</string>
+    <string name="price">Цена:</string>
+    <string name="rare">Редкость:</string>
+</resources>
